@@ -1,0 +1,85 @@
+# 📄 `.gitignore`
+
+```gitignore id="fastapi-gitignore"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# SQLite Databases
+*.db
+*.sqlite3
+
+# Uploaded Files
+uploads/
+temp/
+tmp/
+
+# ML Models
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Vector Databases
+chroma/
+chromadb/
+vectorstore/
+
+# Docker
+docker-compose.override.yml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# Node Modules
+node_modules/
+
+# Secrets
+secrets.toml
+
+# Generated Outputs
+outputs/
+results/
+generated/
+````
