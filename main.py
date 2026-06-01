@@ -23,3 +23,9 @@ def about():
 def view():
     data = load_data()
     return data
+
+
+@app.get("/view")
+def view():
+    data = load_data()
+    return data
