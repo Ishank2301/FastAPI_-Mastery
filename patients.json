@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "age": 28,
+    "gender": "Male",
+    "blood_group": "B+",
+    "phone": "+91-9876543210",
+    "email": "rahul.sharma@example.com",
+    "city": "Jaipur",
+    "diagnosis": "Common Cold",
+    "admitted": false
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "age": 35,
+    "gender": "Female",
+    "blood_group": "O+",
+    "phone": "+91-9876543211",
+    "email": "priya.singh@example.com",
+    "city": "Delhi",
+    "diagnosis": "Hypertension",
+    "admitted": true
+  },
+  {
+    "id": 3,
+    "name": "Amit Verma",
+    "age": 42,
+    "gender": "Male",
+    "blood_group": "A+",
+    "phone": "+91-9876543212",
+    "email": "amit.verma@example.com",
+    "city": "Mumbai",
+    "diagnosis": "Diabetes",
+    "admitted": true
+  },
+  {
+    "id": 4,
+    "name": "Sneha Gupta",
+    "age": 24,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "phone": "+91-9876543213",
+    "email": "sneha.gupta@example.com",
+    "city": "Bangalore",
+    "diagnosis": "Migraine",
+    "admitted": false
+  },
+  {
+    "id": 5,
+    "name": "Vikram Yadav",
+    "age": 51,
+    "gender": "Male",
+    "blood_group": "O-",
+    "phone": "+91-9876543214",
+    "email": "vikram.yadav@example.com",
+    "city": "Lucknow",
+    "diagnosis": "Heart Disease",
+    "admitted": true
+  },
+  {
+    "id": 6,
+    "name": "Ananya Patel",
+    "age": 30,
+    "gender": "Female",
+    "blood_group": "A-",
+    "phone": "+91-9876543215",
+    "email": "ananya.patel@example.com",
+    "city": "Ahmedabad",
+    "diagnosis": "Asthma",
+    "admitted": false
+  },
+  {
+    "id": 7,
+    "name": "Rohan Mehta",
+    "age": 19,
+    "gender": "Male",
+    "blood_group": "B-",
+    "phone": "+91-9876543216",
+    "email": "rohan.mehta@example.com",
+    "city": "Pune",
+    "diagnosis": "Fracture",
+    "admitted": true
+  },
+  {
+    "id": 8,
+    "name": "Neha Kapoor",
+    "age": 45,
+    "gender": "Female",
+    "blood_group": "AB-",
+    "phone": "+91-9876543217",
+    "email": "neha.kapoor@example.com",
+    "city": "Chandigarh",
+    "diagnosis": "Arthritis",
+    "admitted": false
+  },
+  {
+    "id": 9,
+    "name": "Karan Malhotra",
+    "age": 37,
+    "gender": "Male",
+    "blood_group": "O+",
+    "phone": "+91-9876543218",
+    "email": "karan.malhotra@example.com",
+    "city": "Hyderabad",
+    "diagnosis": "Pneumonia",
+    "admitted": true
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "age": 29,
+    "gender": "Female",
+    "blood_group": "A+",
+    "phone": "+91-9876543219",
+    "email": "meera.joshi@example.com",
+    "city": "Indore",
+    "diagnosis": "Allergy",
+    "admitted": false
+  }
+]
